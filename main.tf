@@ -74,4 +74,3 @@ resource "azurerm_linux_virtual_machine" "example" {
 
 #this is a comment
 #this is a new comment
-#This is for git push
