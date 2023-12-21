@@ -71,6 +71,3 @@ resource "azurerm_linux_virtual_machine" "example" {
     version   = "latest"
   }
 }
-
-#this is a comment
-#this is a new comment
